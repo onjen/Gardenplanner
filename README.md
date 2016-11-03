@@ -1,0 +1,3 @@
+# Gardenplanner
+
+These were the first steps in Java a few years ago. The gardenplanner let's you keep track of the plants in your garden, saving locations, names, color, fertilizing dates and so on...
